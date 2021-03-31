@@ -20,12 +20,12 @@
 		'NLP',
 		'ML',
 		'Microservice Architecture',
-		'Service Orientated Architecture',
 		'Kubernetes',
 		'React',
 		'Node',
 		'Web 3.0',
 		'SFTP',
+		'ETL',
     );
 
     $adjectives = array(
@@ -41,7 +41,8 @@
 		'decentralized',
 		'cloud-native',
 		'API-centric',
-		'serverless'
+		'serverless',
+		'next-gen',
     );
 
     function adjectiveString($adjectives, $link = ', ', $number = 3) {
