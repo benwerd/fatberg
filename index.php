@@ -27,7 +27,7 @@
 		'SFTP',
 		'ETL',
 		'ELT',
-		'Microsoft Entra',
+		'Active Directory',
 		'WDSL',
 		'Perl',
 		'J2EE',
@@ -39,6 +39,7 @@
 		'Lotus Notes',
 		'X.25',
 		'Microsoft Exchange',
+		'XML',
     );
 
     $adjectives = array(
